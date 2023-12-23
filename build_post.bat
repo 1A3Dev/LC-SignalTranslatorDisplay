@@ -1,3 +1,3 @@
-cd C:\Users\Jenson\source\repos\SignalTranslatorTip
-copy ".\SignalTranslatorTip\bin\Debug\.netframework,version=v4.8\SignalTranslatorTip.dll" ".\Output\SignalTranslatorTip.dll" /Y
-@REM copy ".\SignalTranslatorTip\bin\Debug\.netframework,version=v4.8\SignalTranslatorTip.dll" "C:\Users\Jenson\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Dev1A3-SignalTranslatorTip\SignalTranslatorTip.dll" /Y
+cd C:\Users\Jenson\source\repos\SignalTranslatorDisplay
+copy ".\SignalTranslatorDisplay\bin\Debug\.netframework,version=v4.8\SignalTranslatorDisplay.dll" ".\Output\SignalTranslatorDisplay.dll" /Y
+@REM copy ".\SignalTranslatorDisplay\bin\Debug\.netframework,version=v4.8\SignalTranslatorDisplay.dll" "C:\Users\Jenson\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Dev1A3-SignalTranslatorDisplay\SignalTranslatorDisplay.dll" /Y

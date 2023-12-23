@@ -2,7 +2,7 @@
 
     <PropertyGroup>
         <TargetFramework>.NETFramework,Version=v4.8</TargetFramework>
-        <AssemblyName>SignalTranslatorTip</AssemblyName>
+        <AssemblyName>SignalTranslatorDisplay</AssemblyName>
         <Description>Makes transmissions from the signal translator less intrusive.</Description>
         <Version>1.0.0</Version>
         <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
@@ -40,6 +40,6 @@
     </ItemGroup>
 
     <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-      <Exec Command="call &quot;C:\Users\Jenson\source\repos\SignalTranslatorTip\build_post.bat&quot;" />
+      <Exec Command="call &quot;C:\Users\Jenson\source\repos\SignalTranslatorDisplay\build_post.bat&quot;" />
     </Target>
 </Project>

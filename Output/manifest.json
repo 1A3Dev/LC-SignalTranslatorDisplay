@@ -1,7 +1,7 @@
 {
-  "name": "SignalTranslatorTip",
+  "name": "SignalTranslatorDisplay",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/1A3Dev/SignalTranslatorTip",
+  "website_url": "https://github.com/1A3Dev/SignalTranslatorDisplay",
   "description": "Makes transmissions from the signal translator less intrusive.",
   "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
 }
