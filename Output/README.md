@@ -2,11 +2,13 @@
 
 ## Information
 
-This mod adds the ability to choose whether you want transmissions from the signal translator to:
+This mod allows you to choose via the config whether you want the signal translator to display:
 
-1. Show as the original full screen popup.
-2. Show in the chat box.
-3. Show as a small tip popup.
+1. As the original full screen popup.
+2. In the chat box.
+3. As a small tip popup.
+
+Each option above is separately configurable!
 
 ## Changelog
 
