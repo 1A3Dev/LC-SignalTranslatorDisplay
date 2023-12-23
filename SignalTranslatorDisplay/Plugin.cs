@@ -51,7 +51,7 @@ internal class SignalTranslatorConfig
     {
         PluginLoader.Instance.BindConfig(ref OriginalEnabled, "Settings", "Default Popup", true, "Should the signal transmission be shown as the default popup?");
         PluginLoader.Instance.BindConfig(ref ChatEnabled, "Settings", "Chat Message", true, "Should the signal transmission be shown as a chat message?");
-        PluginLoader.Instance.BindConfig(ref TipEnabled, "Settings", "Small Popup", true, "Should the signal transmission be shown as a small popup?");
+        PluginLoader.Instance.BindConfig(ref TipEnabled, "Settings", "Small Popup", false, "Should the signal transmission be shown as a small popup?");
     }
 }
 
