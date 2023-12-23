@@ -1,0 +1,2 @@
+cd .\bin\Debug\.netframework,version=v4.8\
+copy SignalTranslatorTip.dll "C:\Users\Jenson\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Dev1A3-SignalTranslatorTip\SignalTranslatorTip.dll" /Y
