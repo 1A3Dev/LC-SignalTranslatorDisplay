@@ -1,7 +1,0 @@
-{
-  "name": "SignalTranslatorDisplay",
-  "version_number": "1.0.3",
-  "website_url": "https://github.com/1A3Dev/LC-SignalTranslatorDisplay",
-  "description": "Allows you to customise how the signal translator displays transmissions.",
-  "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
-}

@@ -1,3 +1,7 @@
+### 1.0.4
+
+- Added v50 support to README.md
+
 ### 1.0.3
 
 - Added v47 & v48 support to README.md

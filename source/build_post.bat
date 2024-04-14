@@ -1,3 +1,0 @@
-copy ".\bin\Release\netstandard2.1\SignalTranslatorDisplay.dll" "..\thunderstore\SignalTranslatorDisplay.dll" /Y
-copy ".\bin\Release\netstandard2.1\SignalTranslatorDisplay.dll" "C:\Users\Jenson\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Dev1A3-SignalTranslatorDisplay\SignalTranslatorDisplay.dll" /Y
-copy ".\bin\Release\netstandard2.1\SignalTranslatorDisplay.pdb" "C:\Users\Jenson\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\Default\BepInEx\plugins\Dev1A3-SignalTranslatorDisplay\SignalTranslatorDisplay.pdb" /Y
