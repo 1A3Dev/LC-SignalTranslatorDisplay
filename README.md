@@ -12,8 +12,8 @@ This mod allows you to decide how you want signal translators to show transmissi
 ### Compatibility
 
 - Supported Game Versions:
-  - v48
-  - v47
+  - v50+
+  - v47-v49
   - v45
 - Works Well With:
   - [CustomTranslatorCharLimit](https://thunderstore.io/c/lethal-company/p/boring/CustomTranslatorCharLimit/)
