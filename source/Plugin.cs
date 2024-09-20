@@ -8,14 +8,10 @@ using UnityEngine;
 
 namespace SignalTranslatorDisplay
 {
-    [BepInPlugin(modGUID, "SignalTranslatorDisplay", modVersion)]
+    [BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
     internal class PluginLoader : BaseUnityPlugin
     {
-        private const string modGUID = "Dev1A3.SignalTranslatorDisplay";
-
-        private readonly Harmony harmony = new Harmony(modGUID);
-
-        private const string modVersion = "1.0.1";
+        private readonly Harmony harmony = new Harmony(MyPluginInfo.PLUGIN_GUID);
 
         private static bool initialized;
 
